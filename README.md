@@ -6,8 +6,13 @@ Zaifの通貨ペアの終値一覧(2017年)
 本コード、およびデータを利用したことにより発生した不利益などに関しては、一切の保証は致しません。
 
 ## 終値一覧(2017年)
-[このファイル](https://github.com/17number/zaif_end_prices_2017/blob/master/end_prices.tsv)を参照、ダウンロードしてください。  
-TSV 形式なので、Excel, Numbers, Spreadsheet でそのまま読み込めます。
+### データだけ見たい方
+[このリンク](https://github.com/17number/zaif_end_prices_2017/blob/master/end_prices.tsv)を開いてください。
+
+### ダウンロードしたい方
+[このファイル](https://raw.githubusercontent.com/17number/zaif_end_prices_2017/master/end_prices.tsv)を右クリックして保存してください。
+
+TSV ファイルなので、そのまま Excel, Numbers, Spreadsheet で読み込めます
 
 ## コードの使い方
 
