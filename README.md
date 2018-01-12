@@ -1,11 +1,15 @@
 # zaif_end_prices_2017
-Zaifの通貨ペアの終値取得
+Zaifの通貨ペアの終値一覧(2017年)
 
 ## 注意/免責事項
 本コード、およびデータの利用は自己責任でお願いします。
 本コード、およびデータを利用したことにより発生した不利益などに関しては、一切の保証は致しません。
 
-## 使い方
+## 終値一覧(2017年)
+[このファイル](https://github.com/17number/zaif_end_prices_2017/blob/master/end_prices.tsv)を参照、ダウンロードしてください。  
+TSV 形式なので、Excel, Numbers, Spreadsheet でそのまま読み込めます。
+
+## コードの使い方
 
 ### 事前準備
 [zaifdata](https://github.com/techbureau/zaifdata)を使っているので、事前にインストールとかクローンしておいてください。
